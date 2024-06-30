@@ -167,7 +167,7 @@ Let's check the output on iex:
 iex> Anagram.anagrams?("Hello", "ohell")
 true
 
-iex> Anagram.anagrams?("María", "íMara")
+iex> Anagram.anagrams?("María", "aíraM")
 true
 
 iex> Anagram.anagrams?(3, 5)
